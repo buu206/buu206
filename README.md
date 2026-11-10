@@ -27,7 +27,17 @@
 
 ## 项目
 
-### 01 / Landscape Sketch · 景观手绘 Skill
+### 01 / 皿星 MINXING · AI 微生物培养探索
+
+<a href="https://buu206.github.io/minxing/"><img src="https://buu206.github.io/minxing/docs/screenshots/home-desktop.png" width="640" alt="皿星首页：微观菌群景观与 AI 伙伴萤萤"></a>
+
+面向学生的虚拟微生物培养产品原型。选择菌种与培养条件，在 3D 展台和数据监控之间观察变化、记录发现，也可以探索图鉴和菌落画室。AI 伙伴「萤萤」已接入 Qwen，结合当前培养记录回答问题；培养过程为教学模拟。
+
+`AI 产品` `Three.js` `Qwen` `Cloudflare Workers`
+
+[在线体验 ↗](https://buu206.github.io/minxing/) · [项目源码 ↗](https://github.com/buu206/minxing)
+
+### 02 / Landscape Sketch · 景观手绘 Skill
 
 <a href="https://github.com/buu206/landscape-sketch-skill"><img src="https://buu206.github.io/assets/landscape-sketch-day.jpg" width="640" alt="Landscape Sketch 的儿童游乐园初夏日景示例，马克笔手绘风格，AI 生成"></a>
 
@@ -37,7 +47,7 @@
 
 [项目源码 ↗](https://github.com/buu206/landscape-sketch-skill) · [体验展示页 ↗](https://buu206.github.io/landscape-sketch-skill/)
 
-### 02 / HUPU — HOME COURT
+### 03 / HUPU — HOME COURT
 
 虎扑体育社区单页课堂作品：用滚动叙事、照片档案、球衣收藏墙和球员评分交互，探索体育社区的视觉与操作体验。内容为课堂演示数据。
 
@@ -45,7 +55,7 @@
 
 [项目源码 ↗](https://github.com/buu206/hupu-home-court) · [体验演示 ↗](https://buu206.github.io/hupu-home-court/)
 
-### 03 / 个人网站 · 田羽峰的个人 OS
+### 04 / 个人网站 · 田羽峰的个人 OS
 
 浅蓝桌面与窗口式布局，集合个人介绍、产品探索、工具索引、文章和联系入口。支持手机与电脑、快捷搜索，以及通过 GitHub Pages 持续发布。
 
@@ -57,6 +67,7 @@
 
 | 仓库 | 内容 | 入口 |
 | :--- | :--- | :--- |
+| [minxing](https://github.com/buu206/minxing) | 皿星：虚拟微生物培养、3D 观察与 AI 伙伴萤萤。 | [在线体验](https://buu206.github.io/minxing/) |
 | [landscape-sketch-skill](https://github.com/buu206/landscape-sketch-skill) | 景观手绘与效果图提示词 Skill、工作流和日夜景示例。 | [展示页](https://buu206.github.io/landscape-sketch-skill/) |
 | [hupu-home-court](https://github.com/buu206/hupu-home-court) | 体育社区单页课堂项目，滚动叙事与交互原型。 | [演示](https://buu206.github.io/hupu-home-court/) |
 | [buu206.github.io](https://github.com/buu206/buu206.github.io) | 个人网站：产品探索、工具实践与思考随笔。 | [个人网站](https://buu206.github.io/) |
