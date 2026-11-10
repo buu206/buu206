@@ -29,7 +29,7 @@
 
 ### 01 / 皿星 MINXING · AI 微生物培养探索
 
-<a href="https://buu206.github.io/minxing/"><img src="https://buu206.github.io/minxing/docs/screenshots/home-desktop.png" width="640" alt="皿星首页：微观菌群景观与 AI 伙伴萤萤"></a>
+<a href="https://buu206.github.io/minxing/"><img src="https://raw.githubusercontent.com/buu206/minxing/b501a335bb98f0eae40796dbca1f36da2aff011b/docs/screenshots/home-desktop.png" width="640" alt="皿星首页：微观菌群景观与 AI 伙伴萤萤"></a>
 
 面向学生的虚拟微生物培养产品原型。选择菌种与培养条件，在 3D 展台和数据监控之间观察变化、记录发现，也可以探索图鉴和菌落画室。AI 伙伴「萤萤」已接入 Qwen，结合当前培养记录回答问题；培养过程为教学模拟。
 
