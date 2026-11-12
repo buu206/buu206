@@ -37,7 +37,17 @@
 
 [在线体验 ↗](https://buu206.github.io/minxing/) · [项目源码 ↗](https://github.com/buu206/minxing)
 
-### 02 / Landscape Sketch · 景观手绘 Skill
+### 02 / Biboo · AI 英语备课与跟读助教
+
+<a href="https://github.com/buu206/biboo-demo"><img src="https://raw.githubusercontent.com/buu206/biboo-demo/9e2735a5e8ccb855f7d8d869201280b4f3413d87/docs/evidence/%E9%98%B6%E6%AE%B52-2/%E5%84%BF%E7%AB%A5%E4%BA%92%E5%8A%A8%E8%AF%BE%E4%BB%B6%E9%A2%84%E8%A7%88.png" width="640" alt="Biboo 儿童互动课件示例：海洋动物词卡、猜词游戏与课堂创作活动"></a>
+
+面向 6–10 岁英语教学的 AI 产品 Demo。老师上传教学材料，生成带分步动画和单词示范音的可编辑 PPT，确认并发布跟读作业；孩子听示范、录音练习，需要人工判断的结果交给老师复核。已接入备课大模型、语音合成与口语评测，当前在本机运行。
+
+`AI 教育产品` `FastAPI` `互动 PPT` `语音评测` `人工复核`
+
+[项目源码 ↗](https://github.com/buu206/biboo-demo) · [功能与运行说明 ↗](https://github.com/buu206/biboo-demo#readme)
+
+### 03 / Landscape Sketch · 景观手绘 Skill
 
 <a href="https://github.com/buu206/landscape-sketch-skill"><img src="https://buu206.github.io/assets/landscape-sketch-day.jpg" width="640" alt="Landscape Sketch 的儿童游乐园初夏日景示例，马克笔手绘风格，AI 生成"></a>
 
@@ -47,27 +57,12 @@
 
 [项目源码 ↗](https://github.com/buu206/landscape-sketch-skill) · [体验展示页 ↗](https://buu206.github.io/landscape-sketch-skill/)
 
-### 03 / HUPU — HOME COURT
-
-虎扑体育社区单页课堂作品：用滚动叙事、照片档案、球衣收藏墙和球员评分交互，探索体育社区的视觉与操作体验。内容为课堂演示数据。
-
-`JavaScript` `GSAP` `ScrollTrigger` `交互原型`
-
-[项目源码 ↗](https://github.com/buu206/hupu-home-court) · [体验演示 ↗](https://buu206.github.io/hupu-home-court/)
-
-### 04 / 个人网站 · 田羽峰的个人 OS
-
-浅蓝桌面与窗口式布局，集合个人介绍、产品探索、工具索引、文章和联系入口。支持手机与电脑、快捷搜索，以及通过 GitHub Pages 持续发布。
-
-`HTML / CSS / JavaScript` `GitHub Pages` `Build in Public`
-
-[打开个人网站 ↗](https://buu206.github.io/) · [网站源码 ↗](https://github.com/buu206/buu206.github.io)
-
 ### 全部公开仓库
 
 | 仓库 | 内容 | 入口 |
 | :--- | :--- | :--- |
 | [minxing](https://github.com/buu206/minxing) | 皿星：虚拟微生物培养、3D 观察与 AI 伙伴萤萤。 | [在线体验](https://buu206.github.io/minxing/) |
+| [biboo-demo](https://github.com/buu206/biboo-demo) | Biboo：儿童英语备课、互动 PPT、跟读作业与老师复核。 | [功能与运行说明](https://github.com/buu206/biboo-demo#readme) |
 | [landscape-sketch-skill](https://github.com/buu206/landscape-sketch-skill) | 景观手绘与效果图提示词 Skill、工作流和日夜景示例。 | [展示页](https://buu206.github.io/landscape-sketch-skill/) |
 | [hupu-home-court](https://github.com/buu206/hupu-home-court) | 体育社区单页课堂项目，滚动叙事与交互原型。 | [演示](https://buu206.github.io/hupu-home-court/) |
 | [buu206.github.io](https://github.com/buu206/buu206.github.io) | 个人网站：产品探索、工具实践与思考随笔。 | [个人网站](https://buu206.github.io/) |
