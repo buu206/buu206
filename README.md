@@ -45,7 +45,17 @@
 
 [项目源码 ↗](https://github.com/buu206/biboo-demo) · [功能与运行说明 ↗](https://github.com/buu206/biboo-demo#readme)
 
-### 03 / Landscape Sketch · 景观手绘 Skill
+### 03 / 灵犀 Lingxi · Agent 共创工作台
+
+<a href="https://github.com/buu206/lingxi"><img src="https://raw.githubusercontent.com/buu206/lingxi/a597d1694e39a2700fa219421c7b78346f539dc5/docs/images/lingxi-home.png" width="640" alt="灵犀首页：蓝色渐变、立体云朵与对话式灵感入口"></a>
+
+从一个想法开始，通过对话梳理需求、推导 Agent 产品方案，也可以检查已有项目并导出交接包。基于 Agent 工坊定制，重新设计蓝色渐变与立体云朵界面，加入产品列表、搜索筛选和想法草稿保存。当前在本机运行，真实对话需配置自己的模型服务。
+
+`AI 产品` `Agent 工作流` `React` `TypeScript` `Python`
+
+[项目源码 ↗](https://github.com/buu206/lingxi) · [功能与运行说明 ↗](https://github.com/buu206/lingxi#readme)
+
+### 04 / Landscape Sketch · 景观手绘 Skill
 
 将景观设计想法整理为图像模型可用的英文提示词，附中文说明、可调参数与图纸检查清单。覆盖彩平、透视、剖立面、分析图及四季氛围，提供儿童游乐园日夜景示例。
 
@@ -59,6 +69,7 @@
 | :--- | :--- | :--- |
 | [minxing](https://github.com/buu206/minxing) | 皿星：虚拟微生物培养、3D 观察与 AI 伙伴萤萤。 | [在线体验](https://buu206.github.io/minxing/) |
 | [biboo-demo](https://github.com/buu206/biboo-demo) | Biboo：儿童英语备课、互动 PPT、跟读作业与老师复核。 | [功能与运行说明](https://github.com/buu206/biboo-demo#readme) |
+| [lingxi](https://github.com/buu206/lingxi) | 灵犀：Agent 共创、产品方案推导与项目检查工作台。 | [功能与运行说明](https://github.com/buu206/lingxi#readme) |
 | [landscape-sketch-skill](https://github.com/buu206/landscape-sketch-skill) | 景观手绘与效果图提示词 Skill、工作流和日夜景示例。 | [展示页](https://buu206.github.io/landscape-sketch-skill/) |
 | [hupu-home-court](https://github.com/buu206/hupu-home-court) | 体育社区单页课堂项目，滚动叙事与交互原型。 | [演示](https://buu206.github.io/hupu-home-court/) |
 | [buu206.github.io](https://github.com/buu206/buu206.github.io) | 个人网站：产品探索、工具实践与思考随笔。 | [个人网站](https://buu206.github.io/) |
